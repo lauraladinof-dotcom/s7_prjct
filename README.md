@@ -65,7 +65,7 @@ streamlit run app.py
 ## Aplicación en línea
 
 La aplicación desplegada estará disponible en:
-https://<APP_NAME>.onrender.com/
+https://s7-prjct.onrender.com/
 
 ## Autor
 
